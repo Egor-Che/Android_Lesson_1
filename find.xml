@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Court Counter'" />
-    <option name="defaultScopeName" value="Project 'Court Counter'" />
-    <option name="SEARCH_SCOPE" value="Project 'Court Counter'" />
+    <option name="customScope" value="File '.../app/src/main/java/com/example/myproject51281/MainActivity.java [app]'" />
+    <option name="defaultScopeName" value="File '.../app/src/main/java/com/example/myproject51281/MainActivity.java [app]'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/src/main/java/com/example/myproject51281/MainActivity.java [app]'" />
   </component>
 </application>
